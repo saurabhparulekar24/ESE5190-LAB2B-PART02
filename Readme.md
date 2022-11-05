@@ -43,9 +43,19 @@ https://user-images.githubusercontent.com/57740824/200090988-3465e9a7-69a5-4031-
 
 https://user-images.githubusercontent.com/57740824/200091246-bf7e666f-f003-4974-b769-196f74ba28cc.mp4
 
+# Save and Upload on REPL (Save Command = 's', Upload Command = 'u')
+When we send the save command, it generates a string, which can be stored and uploaded later, Now I will save a string and reset the board, and upload the same string and play it
 
+Saving the Sequence
 
+https://user-images.githubusercontent.com/57740824/200091502-48e5ee58-0c21-4ecd-a9b3-f3d08c26cd1b.mp4
 
+Uploading the Sequence and playing it
+
+https://user-images.githubusercontent.com/57740824/200091631-2826f62f-e0ba-4978-8db5-936770e7d9ce.mp4
+
+# Conclusion
+We have created the REPL code such that more functionality and commands can be easily added, to try out the REPL you can directly upload the ".uf2" to your Qtpy board and have fun
 
 
 
